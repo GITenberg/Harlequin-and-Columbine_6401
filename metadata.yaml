@@ -1,0 +1,31 @@
+_repo: Harlequin-and-Columbine_6401
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Van Loot, Cornelius Obenchain
+    - Tarkington, Newton Booth
+    - Tarkington, B. (Booth)
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Actors and actresses -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Theater -- Fiction'
+- GITenberg
+title: Harlequin and Columbine
+url: http://www.gutenberg.org/ebooks/6401
